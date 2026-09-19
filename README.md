@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0240-search-a-2d-matrix-ii) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
