@@ -12,8 +12,6 @@ public:
             num = num / 2;
         }
 
-        reverse(binary.begin(), binary.end());
-
         for (size_t i = 0; i < binary.length(); i++) {
             if (binary[i] == '1') {
                 ones++;
