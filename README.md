@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
