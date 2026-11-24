@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
