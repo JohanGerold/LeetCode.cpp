@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0217-contains-duplicate) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
