@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0412-fizz-buzz) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -100,5 +105,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/JohanGerold/LeetCode.cpp/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
